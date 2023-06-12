@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumToJSObject", "EnumToJSObject.csproj", "{FFD34626-0318-4B5C-BE24-B32FEA03AAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD34626-0318-4B5C-BE24-B32FEA03AAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD34626-0318-4B5C-BE24-B32FEA03AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD34626-0318-4B5C-BE24-B32FEA03AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD34626-0318-4B5C-BE24-B32FEA03AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43BE67A5-13A3-4C61-8E73-12B1B3C5F1C3}
+	EndGlobalSection
+EndGlobal
